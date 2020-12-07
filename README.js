@@ -4,7 +4,8 @@ $(document).ready(function()
    if($("#blogID").attr("blogID")!="7754989255366973915" ) 
    if($("#blogID").attr("blogID")!="2177468069970648534" ) 
    if($("#blogID").attr("blogID")!="4579856093246931692" ) 
-
+{
+   window.location.href="https://www.tdeex.com";
  }
     });
 
